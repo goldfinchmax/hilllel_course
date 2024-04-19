@@ -5,4 +5,5 @@ three = (number % 1000) // 100
 two = (number % 100) // 10
 one = (number % 10) // 1
 
-print(one, two, three, four, five)
+result = (one*10000 + two*1000 + three*100 + four*10 + five*1)
+print(result)

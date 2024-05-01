@@ -15,3 +15,4 @@ print("Текст без пунктуації:", text_exclusion)
 print(result)
 print(result.count(''))
 
+
